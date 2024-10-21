@@ -11,6 +11,6 @@ Both notebooks demonstrate how to apply these estimators to real-world datasets 
 
 ## Estimators Included
 
-- **KSG (Kozachenko-Leonenko)**: A popular nearest-neighbor-based MI estimator.
+- **KSG (Kraskov–Stögbauer–Grassberger)**: A popular nearest-neighbor-based MI estimator.
 - **MINE (Mutual Information Neural Estimation)**: A neural network-based method for MI estimation.
 - **Binning Estimator**: Estimate MI via binning samples and approximate density.
