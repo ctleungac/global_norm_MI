@@ -7,7 +7,7 @@ This repository provides implementations of **global normalized KSG** and **glob
 - To use the **global normalized KSG** and **MINE estimators**, refer to the examples provided in `test.ipynb`.
 - To plot the **information plane** with different estimators, refer to the examples in `NN_dynamic.ipynb`.
 
-Both notebooks demonstrate how to apply these estimators to real-world datasets and visualize the results effectively.
+
 
 ## Estimators Included
 
